@@ -8,7 +8,7 @@ body{
     font-family: 'Roboto', sans-serif;
 }
 .intro-section{
-    background-image: url(Images/developer.png);
+    background-image: url(developer.png);
     min-height: 140vh;
     background-position: center;
     background-size: cover;
